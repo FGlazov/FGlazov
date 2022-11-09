@@ -12,5 +12,3 @@ are then displayed on a website frontend. Popular instances of this system can b
 - https://combatbox.net/en/
 
 I'm interested in operations research, discrete optimization, and image processing.
-
-Feel free to contact me on this Github or via <first name><last name>@gmail.com. 
