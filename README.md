@@ -11,4 +11,4 @@ are then displayed on a website frontend. Popular instances of this system can b
 - http://stats.virtualpilots.fi:8000/en/ 
 - https://combatbox.net/en/
 
-I'm interested in operations research, discrete optimization, and image processing.
+I'm interested in operations research, image processing, discrete optimization, and matroids.
